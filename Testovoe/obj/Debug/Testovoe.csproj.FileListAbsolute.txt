@@ -1,0 +1,10 @@
+C:\Users\sveta\source\repos\Testovoe\Testovoe\bin\Debug\Testovoe.exe.config
+C:\Users\sveta\source\repos\Testovoe\Testovoe\bin\Debug\Testovoe.exe
+C:\Users\sveta\source\repos\Testovoe\Testovoe\bin\Debug\Testovoe.pdb
+C:\Users\sveta\source\repos\Testovoe\Testovoe\obj\Debug\Testovoe.csprojAssemblyReference.cache
+C:\Users\sveta\source\repos\Testovoe\Testovoe\obj\Debug\Testovoe.Form1.resources
+C:\Users\sveta\source\repos\Testovoe\Testovoe\obj\Debug\Testovoe.Properties.Resources.resources
+C:\Users\sveta\source\repos\Testovoe\Testovoe\obj\Debug\Testovoe.csproj.GenerateResource.cache
+C:\Users\sveta\source\repos\Testovoe\Testovoe\obj\Debug\Testovoe.csproj.CoreCompileInputs.cache
+C:\Users\sveta\source\repos\Testovoe\Testovoe\obj\Debug\Testovoe.exe
+C:\Users\sveta\source\repos\Testovoe\Testovoe\obj\Debug\Testovoe.pdb
