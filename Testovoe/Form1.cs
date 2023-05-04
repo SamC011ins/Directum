@@ -73,8 +73,8 @@ namespace Testovoe
                     string path = textBox1.Text + @"/" + count + "_" + name + i;
                     string myString = "";
 
-
-                    FileInfo fi1 = new FileInfo(path);
+                    //пробовала .docx, создает, но открыть не получается, поврежденнное содержимое пишет ((
+                    FileInfo fi1 = new FileInfo(path );
 
 
                     if (!fi1.Exists)
