@@ -74,7 +74,7 @@ namespace Testovoe
                     string myString = "";
 
                     //пробовала .docx, создает, но открыть не получается, поврежденнное содержимое пишет ((
-                    FileInfo fi1 = new FileInfo(path );
+                    FileInfo fi1 = new FileInfo(path + ".txt");
 
 
                     if (!fi1.Exists)
